@@ -38,3 +38,6 @@ print(locations)
 locations.sort(reverse=True)
 print(locations)
 
+
+numbers_again = [1,2,3,4,5,6,7,8,9,0]
+print(numbers_again[1])
