@@ -1,0 +1,7 @@
+In Python you can use variables
+In Python you can use if statements
+In Python you can use loops
+In Python you can use lists
+In Python you can use functions
+In Python you can use classes
+In Python you can read files

@@ -1,0 +1,7 @@
+beagle
+poodle
+bulldog
+golden retriever
+german shepherd
+chihuahua
+alaskan malamute
